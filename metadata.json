@@ -1,0 +1,6 @@
+{
+  "name": "Aether Kinetic Particles",
+  "description": "Interactive 3D particle system controlled by real-time MediaPipe hand gestures or mouse and touch physics using Three.js.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
